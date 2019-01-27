@@ -1,0 +1,6 @@
+framework module Pods_DemoCrasher2019_jan_27 {
+  umbrella header "Pods-DemoCrasher2019-jan-27-umbrella.h"
+
+  export *
+  module * { export * }
+}
